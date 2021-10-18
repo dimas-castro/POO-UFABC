@@ -1,1 +1,0 @@
-Consulte enunciado no Moodle.

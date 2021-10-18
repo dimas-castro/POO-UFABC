@@ -1,4 +1,0 @@
-RectangleTest.java
- RectangleTest
-RationalTest.java
- RationalTest
