@@ -1,0 +1,6 @@
+Rational.java
+ Rational
+StarGenerator.java
+ StarGenerator
+Rectangle.java
+ Rectangle

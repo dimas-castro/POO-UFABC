@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YearNotFoundExceptionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-22T23:53:17" hostname="LAPTOP-7VRAEFL6" time="0.308">
+  <properties/>
+  <testcase name="doesNotThrowAtGetTopK()" classname="YearNotFoundExceptionTest" time="0.071"/>
+  <testcase name="doesNotThrowAtGetCount()" classname="YearNotFoundExceptionTest" time="0.013"/>
+  <testcase name="doesNotThrowAtGetTotal()" classname="YearNotFoundExceptionTest" time="0.05"/>
+  <testcase name="throwsAtGetRanking()" classname="YearNotFoundExceptionTest" time="0.003"/>
+  <testcase name="doesNotThrowAtExport()" classname="YearNotFoundExceptionTest" time="0.12"/>
+  <testcase name="throwsAtGetCount()" classname="YearNotFoundExceptionTest" time="0.002"/>
+  <testcase name="throwsAtGetTotal()" classname="YearNotFoundExceptionTest" time="0.003"/>
+  <testcase name="throwsAtGetTopK()" classname="YearNotFoundExceptionTest" time="0.004"/>
+  <testcase name="throwsAtExport()" classname="YearNotFoundExceptionTest" time="0.016"/>
+  <testcase name="doesNotThrowAtGetRanking()" classname="YearNotFoundExceptionTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

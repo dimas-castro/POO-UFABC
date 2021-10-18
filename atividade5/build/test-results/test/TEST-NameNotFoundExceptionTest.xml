@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NameNotFoundExceptionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-22T23:53:17" hostname="LAPTOP-7VRAEFL6" time="0.48">
+  <properties/>
+  <testcase name="doesNotThrowAtGetCount()" classname="NameNotFoundExceptionTest" time="0.074"/>
+  <testcase name="throwsAtGetRanking()" classname="NameNotFoundExceptionTest" time="0.108"/>
+  <testcase name="throwsAtGetCount()" classname="NameNotFoundExceptionTest" time="0.242"/>
+  <testcase name="doesNotThrowAtGetRanking()" classname="NameNotFoundExceptionTest" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

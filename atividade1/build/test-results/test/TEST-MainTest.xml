@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-26T16:55:20" hostname="LAPTOP-7VRAEFL6" time="0.051">
+  <properties/>
+  <testcase name="testContaDigitos()" classname="MainTest" time="0.031"/>
+  <testcase name="testMaximosColunasCaso1()" classname="MainTest" time="0.009"/>
+  <testcase name="testMaximosColunasCaso2()" classname="MainTest" time="0.002"/>
+  <testcase name="testMaximosColunasCaso3()" classname="MainTest" time="0.003"/>
+  <testcase name="testMaximosColunasCaso4()" classname="MainTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Result: [15, 16, 17]
+Expected: [15, 16, 17]
+Result: [12, 15, 16, 17]
+Expected: [12, 15, 16, 17]
+Result: [7, 8]
+Expected: [7, 8]
+Result: [56, 78, 80, 92]
+Expected: [56, 78, 80, 92]
+]]></system-err>
+</testsuite>
